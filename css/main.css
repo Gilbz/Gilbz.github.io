@@ -27,7 +27,30 @@ nav ul li{
 	background:black;
 	color:white;
 	padding: 5px 10px;
+	border: 1px solid black;
+}
+nav ul li:hover{
+	display: inline-block;
+	list-style-type: none;
+	background:white;
+	color:black;
+	padding: 5px 10px;
+	border: 1px solid black;
 }
 nav ul li a{
 	color:white;
+}
+nav ul li:hover a{
+	color:black;
+}
+#araragi{
+	padding: 5px;
+}
+#aboutme{
+	border: 2px solid black;
+	margin: 10px;
+	padding: 10px;
+	width: 500px;
+	
+	text-align: left;
 }
