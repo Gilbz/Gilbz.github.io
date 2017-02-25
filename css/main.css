@@ -39,9 +39,11 @@ nav ul li:hover{
 }
 nav ul li a{
 	color:white;
+	text-decoration: none;
 }
 nav ul li:hover a{
 	color:black;
+	text-decoration: none;
 }
 #araragi{
 	padding: 5px;
