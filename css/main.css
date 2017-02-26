@@ -57,15 +57,20 @@ nav ul li:hover a{
 }
 #Peter{
 	padding-top: 10px; 
-	display: inline;
-	width: 5%;
-	height: 5%;
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	margin-left: -60px;
+	margin-top: -34px;
+	top: 4%;
+	left: 41.5%;
+	
 }
 #araragi{
 	position: absolute;
 	width: 448px;
 	height: 252px;
-	top: 37%;
+	top: 30%;
 	left: 37%;
 	margin-left: -(224)px;
 	margin-top: -(126)px;
